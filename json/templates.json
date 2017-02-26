@@ -1,0 +1,64 @@
+{
+  "pages" : [
+    {
+      "name"        : "0/1",
+      "tempUrls"    : "views/play.view",
+      "controller"  : "PlayController"
+    },
+    {
+      "name"        : "0/2",
+      "tempUrls"    : "views/play.view",
+      "controller"  : "PlayController"
+    },
+    {
+      "name"        : "0/3",
+      "tempUrls"    : "views/play.view",
+      "controller"  : "PlayController"
+    },
+    {
+      "name"        : "0/4",
+      "tempUrls"    : "views/play.view",
+      "controller"  : "PlayController"
+    },
+    {
+      "name"        : "0/5",
+      "tempUrls"    : "views/play.view",
+      "controller"  : "PlayController"
+    },
+    {
+      "name"        : "1/0",
+      "tempUrls"    : "views/play.view",
+      "controller"  : "PlayController"
+    },
+    {
+      "name"        : "1/1",
+      "tempUrls"    : "views/play.view",
+      "controller"  : "PlayController"
+    },
+    {
+      "name"        : "1/2",
+      "tempUrls"    : "views/play.view",
+      "controller"  : "PlayController"
+    },
+    {
+      "name"        : "1/3",
+      "tempUrls"    : "views/play.view",
+      "controller"  : "PlayController"
+    },
+    {
+      "name"        : "1/4",
+      "tempUrls"    : "views/play.view",
+      "controller"  : "PlayController"
+    },
+    {
+      "name"        : "1/5",
+      "tempUrls"    : "views/play.view",
+      "controller"  : "PlayController"
+    },
+    {
+      "name"        : "2/0",
+      "tempUrls"    : "views/play.view",
+      "controller"  : "PlayController"
+    }
+  ]
+}
