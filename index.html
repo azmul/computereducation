@@ -12,10 +12,23 @@
 </head>
 <body>
 
-<div header-section></div>
-<div ui-view layout-margin></div>
+<header>
+    <div header-section></div>
+</header>
 
+<main>
+    <div layout="column">
+        <div class="menuBardemoBasicUsage">
+            <md-content class="page-container">
+                <ui-view></ui-view>
+            </md-content>
+        </div>
+    </div>
+</main>
 
+<footer>
+
+</footer>
 
 
 <script src="script/angular.js"></script>
